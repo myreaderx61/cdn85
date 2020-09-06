@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+  <meta charset="UTF-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="../../docs-assets/ico/favicon.png">
+
+
+
+
+	    <meta name="description" content="I’m a design-savvy content strategist and digital consultant with an extensive background in online communications, digital platforms, and user experience.">
+	    <meta property="og:description" content="I’m a design-savvy content strategist and digital consultant with an extensive background in online communications, digital platforms, and user experience.">
+		<meta property="og:image" content="/graphics/about/andrew-hearst.jpg" />
+
+				<title>Andrew Hearst - Content Strategist & Digital Consultant - Brooklyn, New York</title>
+
+
+	<!-- BOOTSTRAP -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+
+	<!-- CUSTOM -->
+	<style media='screen'>@import "http://andrewhearst.com/index.php?css=styles/styles.v.1504709952";</style>
+	<style media='screen'>@import "http://andrewhearst.com/index.php?css=styles/responsive.v.1504647127";</style>
+
+	<!-- HOEFLER -->
+	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/770780/709942/css/fonts.css" />
+
+
+	<!-- FONTAWESOME -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<!-- SCRIPTS -->
+	<script src="/video/jwplayer.js"></script>
+
+<script>
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-29358687-1']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+</script>
+
+</head>
+<body>
+
+<div class="navigation">
+
+	<div class="container" style="padding: 0;">
+
+		<nav class="navbar navbar-toggleable-md navbar-light">
+		  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+		    <span class="navbar-toggler-icon"></span>
+		  </button>
+		  <a class="navbar-brand" href="http://andrewhearst.com">Andrew Hearst</a>
+		  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+		    <div class="navbar-nav">
+		      <a class="nav-item nav-link" href="/work">Work</a>
+		      <a class="nav-item nav-link" href="/about">About</a>
+		    </div>
+				<div class="navbar-social">
+					<a class="nav-icon" href="http://instagram.com/andrewhearst"><i class="fa fa-instagram"></i></a>
+					<a class="nav-icon" href="http://twitter.com/andrewhearst"><i class="fa fa-twitter"></i></a>
+					<a class="nav-icon" href="https://www.linkedin.com/in/andrewhearst/"><i class="fa fa-linkedin"></i></a>
+				</div>
+		  </div>
+		</nav>
+
+	</div>
+
+</div>
+
+
+
+<section class="image-grid-homepage" style="border-top: 0;">
+
+	<div class="row">
+
+		<div class="col-md-1 col-2" style="margin: 0; padding: 0;">
+			<img src="/graphics/homepage/blackboard.jpg" style="max-width: 100%" alt="blackboard">
+		</div>
+
+		<div class="col-md-1 col-2" style="margin: 0; padding: 0;">
+			<img src="/graphics/homepage/club-wyndham.jpg" style="max-width: 100%" alt="Club Wyndham">
+		</div>
+
+		<div class="col-md-1 col-2" style="margin: 0; padding: 0;">
+			<img src="/graphics/homepage/jetblue.jpg" style="max-width: 100%" alt="JetBlue">
+		</div>
+
+		<div class="col-md-1 col-2" style="margin: 0; padding: 0;">
+			<img src="/graphics/homepage/structure-and-flow-square.jpg" style="max-width: 100%" alt="structure and flow">
+		</div>
+
+		<div class="col-md-1 col-2" style="margin: 0; padding: 0;">
+			<img src="/graphics/homepage/white-house.jpg" style="max-width: 100%" alt="The White House">
+		</div>
+
+		<div class="col-md-1 col-2" style="margin: 0; padding: 0;">
+			<img src="/graphics/homepage/categories.jpg" style="max-width: 100%" alt="content categories">
+		</div>
+
+		<div class="col-md-1 col-2" style="margin: 0; padding: 0;">
+			<img src="/graphics/homepage/content-speeds.jpg" style="max-width: 100%" alt="content speeds">
+		</div>
+
+		<div class="col-md-1 col-2" style="margin: 0; padding: 0;">
+			<img src="/graphics/homepage/swing-left.jpg" style="max-width: 100%" alt="Swing Left">
+		</div>
+
+		<div class="col-md-1 col-2" style="margin: 0; padding: 0;">
+			<img src="/graphics/homepage/sports-comedy.jpg" style="max-width: 100%" alt="sports and comedy categories">
+		</div>
+
+		<div class="col-md-1 col-2" style="margin: 0; padding: 0;">
+			<img src="/graphics/homepage/sag-aftra.jpg" style="max-width: 100%" alt="SAG-AFTRA">
+		</div>
+
+		<div class="col-md-1 col-2" style="margin: 0; padding: 0;">
+			<img src="/graphics/homepage/content-audit.jpg" style="max-width: 100%" alt="content audit">
+		</div>
+
+		<div class="col-md-1 col-2" style="margin: 0; padding: 0;">
+			<img src="/graphics/homepage/vanity-fair.jpg" style="max-width: 100%" alt="Vanity Fair">
+		</div>
+
+	</div>
+
+</section>
+
+
+<div class="page-hed">
+	<div class="container">
+
+		<h1 class="homepage">Hello! I&#8217;m a design-savvy content strategist and digital consultant with an extensive background in online communications, digital platforms, and user experience.</h1>
+		
+		<p>I work with a wide range of companies and institutions, but I especially enjoy collaborating with politically progressive, purpose-driven organizations that are working to bring about a better, more tolerant world.</p>
+
+	</div>
+</div>
+
+
+<section class="homepage-body">
+
+<div class="container">
+	
+	<div class="row">
+
+<!--BEGINNING-->
+
+	<div class="col-md-6">
+
+	<a href="/work">
+
+		<div class="homepage-module work">
+
+			<div class="container">
+		
+				<h2>Work &nbsp;<i class="fa fa-arrow-circle-right fa-rotate-45" aria-hidden="true"></i></h2>
+					
+			</div>
+
+		</div>
+		
+	</a>
+	
+	</div>
+	
+
+<!--END-->
+
+
+<!--BEGINNING-->
+
+
+	<div class="col-md-6">
+
+	<a href="/about">
+
+		<div class="homepage-module about">
+
+			<div class="container">
+		
+				<h2>About &nbsp;<i class="fa fa-arrow-circle-right fa-rotate-45" aria-hidden="true"></i></h2>
+					
+			</div>
+
+		</div>
+		
+	</a>
+	
+	</div>
+
+
+<!--END-->
+
+	</div>
+
+</div>
+
+</section>
+
+
+
+
+	<section class="footer">
+		<div class="container" style="padding: 0;">
+
+		<nav class="navbar navbar-toggleable-md navbar-light">
+		  <a class="navbar-brand" href="http://andrewhearst.com">Andrew Hearst</a>
+	    <div class="navbar-nav">
+	      <a class="nav-item nav-link" href="work">Work</a>
+	      <a class="nav-item nav-link" href="about">About</a>
+	      <a class="nav-item nav-link" href="mailto:hearst@gmail.com">hearst@gmail.com</a>
+	    </div>
+			<div class="navbar-social">
+				<a class="nav-icon" href="http://instagram.com/andrewhearst"><i class="fa fa-instagram"></i></a>
+				<a class="nav-icon" href="http://twitter.com/andrewhearst"><i class="fa fa-twitter"></i></a>
+				<a class="nav-icon" href="https://www.linkedin.com/in/andrewhearst/"><i class="fa fa-linkedin"></i></a>
+			</div>
+		</nav>
+
+		</div>
+	</section>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+	<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+	<script type='text/javascript' src='/js/common.js'></script>
+
+
+
+  </body>
+</html>
